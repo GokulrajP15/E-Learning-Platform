@@ -12,7 +12,7 @@ Features
     - Multiple Pages: The website includes separate pages for Home, Certifications, Services, and About Us, providing a comprehensive view of the offerings.
     - Course Categories: Users can explore various streams and find courses that interest them.
     - Certification Information: Detailed sections on different types of certificates available upon course completion.
-    - Service Offerings: An overview of the services provided to support learners in their education.\
+    - Service Offerings: An overview of the services provided to support learners in their education.
 
 Technologies Used
     - HTML5: For structuring the web pages.
