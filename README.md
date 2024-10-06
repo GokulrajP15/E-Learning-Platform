@@ -16,4 +16,4 @@ Features
 
 Technologies Used
     - HTML5: For structuring the web pages.
-    - CSS3: For styling the website and ensuring a responsive layout.
+    - CSS3: For styling the website.
